@@ -5,19 +5,31 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>4FDFBEE5-3FCB-47FA-9DD9-2D40948A1262</string>
+=======
+	<string>D8B41461-751B-4533-B068-A7F95B38E4C7</string>
+>>>>>>> e20944d3234cffe77db00968258e5194d7582cd6
 	<key>IDESourceControlProjectName</key>
 	<string>aaa</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</key>
+=======
+		<key>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</key>
+>>>>>>> e20944d3234cffe77db00968258e5194d7582cd6
 		<string>https://github.com/TEDinTW/tonyTest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>aaa/aaa.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</key>
+=======
+		<key>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</key>
+>>>>>>> e20944d3234cffe77db00968258e5194d7582cd6
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +37,22 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
+<<<<<<< HEAD
 	<string>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</string>
+=======
+	<string>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</string>
+>>>>>>> e20944d3234cffe77db00968258e5194d7582cd6
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</string>
+=======
+			<string>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</string>
+>>>>>>> e20944d3234cffe77db00968258e5194d7582cd6
 			<key>IDESourceControlWCCName</key>
 			<string>tonyTest</string>
 		</dict>
