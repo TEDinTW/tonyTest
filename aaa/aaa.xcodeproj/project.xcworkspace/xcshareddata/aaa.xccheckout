@@ -5,43 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>CC3062F5-F0D2-4948-A864-65E3728B3BA2</string>
+	<string>D8B41461-751B-4533-B068-A7F95B38E4C7</string>
 	<key>IDESourceControlProjectName</key>
 	<string>aaa</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B0C32ECB-B790-403C-B5C1-0F9063EC0235</key>
-		<string>https://github.com/TEDinTW/tonyTest</string>
+		<key>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</key>
+		<string>https://github.com/TEDinTW/tonyTest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>trunk/aaa/aaa.xcodeproj/project.xcworkspace</string>
+	<string>aaa/aaa.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B0C32ECB-B790-403C-B5C1-0F9063EC0235</key>
-		<string>../../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>B0C32ECB-B790-403C-B5C1-0F9063EC0235</key>
-		<string>https://github.com/TEDinTW/tonyTest</string>
+		<key>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/TEDinTW/tonyTest/trunk/aaa/aaa.xcodeproj</string>
+	<string>https://github.com/TEDinTW/tonyTest.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B0C32ECB-B790-403C-B5C1-0F9063EC0235</string>
+	<string>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B0C32ECB-B790-403C-B5C1-0F9063EC0235</string>
+			<string>64CBCAF1-6E7A-4FB0-9979-05BC5EDB6295</string>
 			<key>IDESourceControlWCCName</key>
 			<string>tonyTest</string>
 		</dict>
