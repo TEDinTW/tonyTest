@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		847FAB2D194DA8BA00503172 /* playVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 847FAB2B194DA8BA00503172 /* playVC.m */; };
 		9F9C7E09194DA0E300D11150 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F9C7E08194DA0E300D11150 /* Foundation.framework */; };
 		9F9C7E0B194DA0E300D11150 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F9C7E0A194DA0E300D11150 /* CoreGraphics.framework */; };
 		9F9C7E0D194DA0E300D11150 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F9C7E0C194DA0E300D11150 /* UIKit.framework */; };
@@ -60,6 +61,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		847FAB2B194DA8BA00503172 /* playVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = playVC.m; sourceTree = "<group>"; };
+		847FAB2C194DA8BA00503172 /* playVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = playVC.h; sourceTree = "<group>"; };
 		9F9C7E05194DA0E200D11150 /* aaa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aaa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F9C7E08194DA0E300D11150 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9F9C7E0A194DA0E300D11150 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -164,6 +167,8 @@
 		9F9C7E0E194DA0E300D11150 /* aaa */ = {
 			isa = PBXGroup;
 			children = (
+				847FAB2B194DA8BA00503172 /* playVC.m */,
+				847FAB2C194DA8BA00503172 /* playVC.h */,
 				9F9C7E3D194DA7B100D11150 /* images */,
 				9F9C7E17194DA0E300D11150 /* TEDAppDelegate.h */,
 				9F9C7E18194DA0E300D11150 /* TEDAppDelegate.m */,
@@ -372,6 +377,7 @@
 			files = (
 				9F9C7E1F194DA0E300D11150 /* TEDViewController.m in Sources */,
 				9F9C7E19194DA0E300D11150 /* TEDAppDelegate.m in Sources */,
+				847FAB2D194DA8BA00503172 /* playVC.m in Sources */,
 				9F9C7E15194DA0E300D11150 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
