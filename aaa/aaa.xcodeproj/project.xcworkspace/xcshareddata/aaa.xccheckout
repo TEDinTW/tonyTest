@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8131995F-36B5-42B0-97F3-D9C326C2273C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>aaa</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</key>
+		<string>https://github.com/TEDinTW/tonyTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>aaa/aaa.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TEDinTW/tonyTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>06101E5D-0EFD-43DF-AAA4-4BD1888C11F5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tonyTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
