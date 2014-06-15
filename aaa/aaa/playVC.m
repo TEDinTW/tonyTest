@@ -11,6 +11,7 @@
 @interface playVC (){
     
  NSArray *allLetters;
+    int a;
 }
 @end
 
