@@ -12,8 +12,8 @@
 
 @interface playVC (){
     
- NSArray *allLetters;
-    int a;
+    NSArray *allLetters;
+    NSMutableArray *_imgViews;
 }
 @end
 
@@ -44,7 +44,8 @@
         [self.view bringSubviewToFront:imgView];
         [_imgViews addObject:imgView];
     }
-    [NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(makeLetter) userInfo:nil repeats:YES];
+    [NSTimer scheduledTimerWithTimeInterval:2 target:self selector:@selector(makeLetter) userInfo:nil repeats:YES];
+    
 }
 
 - (void)didReceiveMemoryWarning
@@ -67,7 +68,7 @@ static int i = 0;
 
 -(void)makeLetter{
     {
-        NSLog(@"aa");
+        
         i++;
         if ([_imgViews count] > 0) {
             UIImageView *imageView1 = [_imgViews objectAtIndex:0];
