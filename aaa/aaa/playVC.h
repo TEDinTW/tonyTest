@@ -10,4 +10,6 @@
 
 @interface playVC : UIViewController
 @property NSMutableArray *imgView;
+
+
 @end

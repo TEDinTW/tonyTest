@@ -48,6 +48,12 @@
 		9F9C7E70194DA7B100D11150 /* 24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F9C7E56194DA7B100D11150 /* 24.jpg */; };
 		9F9C7E71194DA7B100D11150 /* 25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F9C7E57194DA7B100D11150 /* 25.jpg */; };
 		9F9C7E72194DA7B100D11150 /* 26.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F9C7E58194DA7B100D11150 /* 26.jpg */; };
+		EAEE3511194F210C0017356A /* vc1.m in Sources */ = {isa = PBXBuildFile; fileRef = EAEE3510194F210C0017356A /* vc1.m */; };
+		EAEE3518194F21450017356A /* momo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAEE3513194F21450017356A /* momo1.jpg */; };
+		EAEE3519194F21450017356A /* momo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAEE3514194F21450017356A /* momo2.jpg */; };
+		EAEE351A194F21450017356A /* momo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAEE3515194F21450017356A /* momo3.jpg */; };
+		EAEE351B194F21450017356A /* momo4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAEE3516194F21450017356A /* momo4.jpg */; };
+		EAEE351C194F21450017356A /* momo5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAEE3517194F21450017356A /* momo5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -108,6 +114,13 @@
 		9F9C7E56194DA7B100D11150 /* 24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 24.jpg; sourceTree = "<group>"; };
 		9F9C7E57194DA7B100D11150 /* 25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 25.jpg; sourceTree = "<group>"; };
 		9F9C7E58194DA7B100D11150 /* 26.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 26.jpg; sourceTree = "<group>"; };
+		EAEE350F194F210C0017356A /* vc1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vc1.h; sourceTree = "<group>"; };
+		EAEE3510194F210C0017356A /* vc1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = vc1.m; sourceTree = "<group>"; };
+		EAEE3513194F21450017356A /* momo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = momo1.jpg; sourceTree = "<group>"; };
+		EAEE3514194F21450017356A /* momo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = momo2.jpg; sourceTree = "<group>"; };
+		EAEE3515194F21450017356A /* momo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = momo3.jpg; sourceTree = "<group>"; };
+		EAEE3516194F21450017356A /* momo4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = momo4.jpg; sourceTree = "<group>"; };
+		EAEE3517194F21450017356A /* momo5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = momo5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +187,7 @@
 		9F9C7E0E194DA0E300D11150 /* aaa */ = {
 			isa = PBXGroup;
 			children = (
+				EAEE350E194F20FA0017356A /* tony */,
 				847FAB2E194DA8E500503172 /* heriod */,
 				847FAB2B194DA8BA00503172 /* playVC.m */,
 				847FAB2C194DA8BA00503172 /* playVC.h */,
@@ -259,6 +273,28 @@
 			path = english;
 			sourceTree = "<group>";
 		};
+		EAEE350E194F20FA0017356A /* tony */ = {
+			isa = PBXGroup;
+			children = (
+				EAEE3512194F21320017356A /* 圖片 */,
+				EAEE350F194F210C0017356A /* vc1.h */,
+				EAEE3510194F210C0017356A /* vc1.m */,
+			);
+			name = tony;
+			sourceTree = "<group>";
+		};
+		EAEE3512194F21320017356A /* 圖片 */ = {
+			isa = PBXGroup;
+			children = (
+				EAEE3513194F21450017356A /* momo1.jpg */,
+				EAEE3514194F21450017356A /* momo2.jpg */,
+				EAEE3515194F21450017356A /* momo3.jpg */,
+				EAEE3516194F21450017356A /* momo4.jpg */,
+				EAEE3517194F21450017356A /* momo5.jpg */,
+			);
+			name = "圖片";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -339,8 +375,10 @@
 				9F9C7E6F194DA7B100D11150 /* 23.jpg in Resources */,
 				9F9C7E62194DA7B100D11150 /* 10.jpg in Resources */,
 				9F9C7E72194DA7B100D11150 /* 26.jpg in Resources */,
+				EAEE351A194F21450017356A /* momo3.jpg in Resources */,
 				9F9C7E5F194DA7B100D11150 /* 07.jpg in Resources */,
 				9F9C7E6C194DA7B100D11150 /* 20.jpg in Resources */,
+				EAEE3518194F21450017356A /* momo1.jpg in Resources */,
 				9F9C7E5B194DA7B100D11150 /* 03.jpg in Resources */,
 				9F9C7E60194DA7B100D11150 /* 08.jpg in Resources */,
 				9F9C7E5A194DA7B100D11150 /* 02.jpg in Resources */,
@@ -362,9 +400,12 @@
 				9F9C7E5C194DA7B100D11150 /* 04.jpg in Resources */,
 				9F9C7E70194DA7B100D11150 /* 24.jpg in Resources */,
 				9F9C7E59194DA7B100D11150 /* 01.jpg in Resources */,
+				EAEE3519194F21450017356A /* momo2.jpg in Resources */,
+				EAEE351C194F21450017356A /* momo5.jpg in Resources */,
 				9F9C7E68194DA7B100D11150 /* 16.jpg in Resources */,
 				9F9C7E1C194DA0E300D11150 /* Main.storyboard in Resources */,
 				9F9C7E67194DA7B100D11150 /* 15.jpg in Resources */,
+				EAEE351B194F21450017356A /* momo4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,6 +425,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F9C7E1F194DA0E300D11150 /* TEDViewController.m in Sources */,
+				EAEE3511194F210C0017356A /* vc1.m in Sources */,
 				9F9C7E19194DA0E300D11150 /* TEDAppDelegate.m in Sources */,
 				847FAB2D194DA8BA00503172 /* playVC.m in Sources */,
 				9F9C7E15194DA0E300D11150 /* main.m in Sources */,

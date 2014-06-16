@@ -27,6 +27,17 @@
                                     <segue destination="9dJ-QW-1p3" kind="push" id="4V3-Ne-Iae"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Wi-1c-rrT">
+                                <rect key="frame" x="117" y="279" width="86" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.2916411237" green="1" blue="0.22262456119999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="遊戲開始2">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="vz1-ea-Jx2" kind="push" id="e3W-nL-1Ta"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
@@ -50,6 +61,25 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gaL-bK-HQR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-91" y="-120"/>
+        </scene>
+        <!--Vc1-->
+        <scene sceneID="IZJ-ay-uJx">
+            <objects>
+                <viewController id="vz1-ea-Jx2" customClass="vc1" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="hq6-6F-Cq7"/>
+                        <viewControllerLayoutGuide type="bottom" id="bxE-xt-G6l"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="0Tw-ZH-SNk">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="jHx-rd-a9y"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Sac-7q-poC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="330" y="572"/>
         </scene>
         <!--PlayVC-->
         <scene sceneID="M7Z-Ty-hRm">
