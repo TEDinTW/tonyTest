@@ -14,6 +14,8 @@
     
     NSArray *allLetters;
     NSMutableArray *_imgViews;
+    int a;
+    
 }
 @end
 
