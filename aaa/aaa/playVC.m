@@ -15,7 +15,6 @@
     NSArray *allLetters;
     NSMutableArray *_imgViews;
     int a;
-    
 }
 @end
 
@@ -40,7 +39,7 @@
     int tmpi=0;
     _imgViews=[[NSMutableArray alloc]init];
     for (tmpi=0;tmpi < 26; tmpi ++) {
-        UIImageView *imgView=[[UIImageView alloc]initWithFrame:CGRectMake(IMAGE_X, -45, 45, 45)];
+        UIImageView *imgView=[[UIImageView alloc]initWithFrame:CGRectMake(IMAGE_X, 0, 45, 45)];
         imgView.image=[UIImage imageNamed:[allLetters objectAtIndex:tmpi]];
         [self.view addSubview:imgView];
         [self.view bringSubviewToFront:imgView];
